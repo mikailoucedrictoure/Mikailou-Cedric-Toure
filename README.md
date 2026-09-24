@@ -1,4 +1,6 @@
-![Uploading Be Bold.gif…]()
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG96cHdsYnYxZzRsdXp5d2R4ZWl6aWxnM2E0MW5qaXhyNXpmeXJrdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B4jfJqiIxvU08/giphy.gif" width="100%" alt="Animation de bienvenue" />
+</p>
 
 # Hi 👋, I'm Mikailou Cedric Toure
 
