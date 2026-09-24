@@ -1,7 +1,6 @@
 # Mikailou-Cedric-Toure
 # Hi 👋, I'm Mikailou Cedric Toure
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mikailoucedrictoure&label=Profile views&color=0e75b6&style=flat" alt="mikailoucedrictoure" /> </p>
 
 - 🔭 I'm currently  **Student in Networking and information security**
 
