@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://app.lottiefiles.com/share/126c303b-aa5f-448b-8d04-1f52423a6bd2" width="100%" alt="Animation de bienvenue" />
-</p>
+![Uploading Be Bold.gif…]()
+
 # Hi 👋, I'm Mikailou Cedric Toure
 
 
