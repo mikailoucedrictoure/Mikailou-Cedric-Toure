@@ -9,7 +9,7 @@
 
 - 🌱 I'm currently learning **Python and Type Script**
 
-- 👯 I'm looking to collaborate on **Significant projet for human lives**
+- 👯 I'm looking to collaborate on **Any fun project**
 
 - 🤝 I'm looking for help with **Bug hunties**
 
